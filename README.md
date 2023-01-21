@@ -1,4 +1,4 @@
-#Hierarchical Robot Model in OpenGL
+# Hierarchical Robot Model in OpenGL
 
 Left leg of the robot animates the step.
 
