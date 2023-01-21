@@ -1,4 +1,6 @@
- Left leg of the robot animates the step.
+#Hierarchical Robot Model in OpenGL
+
+Left leg of the robot animates the step.
 
 'w' to do the step animation, 'W' resets the joint angles.
 
